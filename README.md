@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 
 ![image](https://media.giphy.com/media/tu54GM19sqJOw/giphy.gif)
