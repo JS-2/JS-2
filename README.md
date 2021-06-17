@@ -11,8 +11,8 @@ I am studying to become a front-end developer.
 
 ## 🌈 Interested
 
-- **Vue.js**
 - **React**
+- **Vue.js**
 - **JavaScript**
 - **TypeScript**
 
