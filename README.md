@@ -11,7 +11,7 @@ I do personal study from time to time.
 
 ## 📚 Education
 
-- **Soongsil University Department of IT Convergence **  2014.02 ~ 2020.08
+- **Soongsil University Department of IT Convergence**  2014.02 ~ 2020.08
 - **SAMSUNG Software Academy for youth 4th**  2020.07 ~ 2021.07
 
 ## 🏢 Career
