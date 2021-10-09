@@ -4,23 +4,16 @@
 
 ![image](https://media.giphy.com/media/tu54GM19sqJOw/giphy.gif)
 
-Hi, I'm Jaesung Kim <br/>
-I am studying to become a front-end developer.
-
-<br/>
-
-## 🌈 Interested
-
-- **React**
-- **Vue.js**
-- **JavaScript**
-- **TypeScript**
+Hi, I'm Jaesung Kim
 
 <br/>
 
 ## 📚 Education
 
 - **SAMSUNG Software Academy for youth 4th**  2020.07 ~
+
+## 🏢 Career
+GS SHOP 주문/결제 시스템 개발 운영 2021.08 ~ 
 
 <br/>
 
