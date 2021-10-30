@@ -16,7 +16,7 @@ I do personal study from time to time.
 
 ## 🏢 Career
 
-- GS SHOP 주문/결제 시스템 개발 운영 2021.08 ~ 
+- GS SHOP Software Engineer 2021.08 ~ 
 
 <br/>
 
