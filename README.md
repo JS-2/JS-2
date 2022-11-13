@@ -7,9 +7,6 @@
 Hi, I'm Jaesung Kim 
 I do personal study from time to time.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimjea23)](https://solved.ac/kimjea23)
-
 <br/>
 
 ## 📚 Education
@@ -19,10 +16,13 @@ I do personal study from time to time.
 
 ## 🏢 Career
 
-- GS SHOP Software Engineer 2021.08 ~ 
+- **GS SHOP Software Engineer** 주문Product팀 2021.08 ~ 
 
 <br/>
 
-## 💡 GitHub stats
+## 💡 Stats
 
 [![JS-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimjea23)](https://solved.ac/kimjea23)
