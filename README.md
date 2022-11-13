@@ -8,7 +8,7 @@ Hi, I'm Jaesung Kim
 I do personal study from time to time.
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/kimjea23)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimjea23)](https://solved.ac/kimjea23)
 
 <br/>
 
