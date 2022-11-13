@@ -12,11 +12,11 @@ I do personal study from time to time.
 
 - **Soongsil University Department of IT Convergence**  2014.02 ~ 2020.08
 - **SAMSUNG Software Academy for youth 4th**  2020.07 ~ 2021.07
+<br/>
 
 ## 🏢 Career
 
 - **GS SHOP Software Engineer** 주문Product팀 2021.08 ~ 
-
 <br/>
 
 ## 💡 Stats
