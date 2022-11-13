@@ -21,7 +21,8 @@ I do personal study from time to time.
 
 ## 💡 Stats
 
-[![JS-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimjea23)](https://solved.ac/kimjea23)
+
+[![JS-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JS-2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
