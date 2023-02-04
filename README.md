@@ -16,7 +16,7 @@ I do personal study from time to time.
 
 ## 🏢 Career
 
-- **GS SHOP Software Engineer** 주문Product팀 2021.08 ~ 
+- **GS SHOP Software Engineer** 주문서비스팀 2021.08 ~ 
 <br/>
 
 ## 💡 Stats
